@@ -1,2 +1,1 @@
-# random
-random
+#AI club activities
