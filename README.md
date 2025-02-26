@@ -1,1 +1,1 @@
-#AI club activities
+AI club activities
